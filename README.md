@@ -1,4 +1,5 @@
 # EarthServerBase
+使用的插件均为开源免费插件!! 切勿用于商业目的!!
 本项目将在2023/2/6前上传完毕
 The project will be released before February 6, 2023
 Minecraft JAVA Earth Server ServerClient.Plug-in and configuration
